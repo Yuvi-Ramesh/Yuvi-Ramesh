@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Yuva+Sri+R;AI+Developer;AI+Automation+Developer;Python+Developer" alt="Animated Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Yuva+Sri+R;AI+Developer;AI+Automation+Developer;Python+Developer" alt="Animated Header" />
 </div>
 <div align="center">
   
