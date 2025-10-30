@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=auto&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Yuva+Sri+R;AI+Developer;AI+Automation+Developer;Python+Developer" alt="Animated Header" />
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Yuva+Sri+R;AI+Developer;AI+Automation+Developer;Python+Developer" alt="Animated Header" />
 </div>
-
-
 <div align="center">
   
 <!--   <img src="https://camo.githubusercontent.com/4b31ead27c30a71d6025bec82381859d3f2128386ff7eb1f9a229cb0e95cf5a5/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d325f303746765f712d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6769746875622e636f6d2f4d6973684d616e6e6572732f4d6973684d616e6e6572732f7261772f6d61737465722f4d6973684d616e6e6572732532353230526f6f6d2532353230616e696d617465642e676966" /> -->
@@ -84,19 +83,21 @@
 </div>
 
 ---
-
-
 <div align="center">
 
 ## 🔥 GitHub Activity Overview
 
 <!-- Main Streak Stats with Enhanced Styling -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaramesh&theme=tokyonight&ring=DD2727&fire=DD2727&sideLabels=DD2727&currStreakLabel=DD2727&hide_border=true&stroke=0000&background=0D1117&dates=C9D1D9" height="250"/>
+<a href="https://github.com/Yuvi-Ramesh">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvi-Ramesh&theme=tokyonight&ring=DD2727&fire=DD2727&sideLabels=DD2727&currStreakLabel=DD2727&hide_border=true&stroke=0000&background=0D1117&dates=C9D1D9" height="250"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvaramesh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=79C0FF&line=DD2727&point=C9D1D9&area_color=DD2727&title_color=58A6FF&area=true" height="300"/>
+<a href="https://github.com/Yuvi-Ramesh">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvi-Ramesh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=79C0FF&line=DD2727&point=C9D1D9&area_color=DD2727&title_color=58A6FF&area=true" height="300"/>
+</a>
 
 <br/><br/>
 
@@ -105,67 +106,47 @@
 <div style="display: flex; justify-content: center; gap: 60px; flex-wrap: wrap;">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvaramesh&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" height="200"/>
+<a href="https://github.com/Yuvi-Ramesh">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvi-Ramesh&show_icons=true&theme=tokyonight&hide_title=false&hide_rank=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&border_color=30363D" height="200"/>
+</a>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaramesh&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8" height="200"/>
+<a href="https://github.com/Yuvi-Ramesh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvi-Ramesh&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&langs_count=8" height="200"/>
+</a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvaramesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="50%"/>
+<a href="https://github.com/Yuvi-Ramesh">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuvi-Ramesh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" width="60%"/>
+</a>
 
-<br/>
+<br/><br/>
 
 ## 📊 Contribution Metrics
 
 <!-- Profile Summary Cards -->
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvaramesh&theme=tokyonight" width="80%"/>
-
-
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yuvaramesh&theme=tokyonight" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yuvaramesh&theme=tokyonight" height="180"/>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvaramesh&theme=tokyonight" height="180"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvaramesh&theme=tokyonight&utcOffset=5.5" height="180"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<a href="https://github.com/Yuvi-Ramesh">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvi-Ramesh&theme=tokyonight" width="90%"/>
+</a>
 
 
-<br/>
+
 
 ## 🎯 Key Metrics
 
 <div style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
 
-[![GitHub followers](https://img.shields.io/github/followers/Yuvaramesh?label=Followers&style=for-the-badge&color=DD2727&labelColor=0D1117)](https://github.com/Yuvaramesh)
-[![GitHub stars](https://img.shields.io/github/stars/Yuvaramesh?label=Stars&style=for-the-badge&color=79C0FF&labelColor=0D1117)](https://github.com/Yuvaramesh)
-
-</div>
-
-<br/>
+[![GitHub followers](https://img.shields.io/github/followers/Yuvi-Ramesh?label=Followers&style=for-the-badge&color=DD2727&labelColor=0D1117)](https://github.com/Yuvi-Ramesh)
+[![GitHub stars](https://img.shields.io/github/stars/Yuvi-Ramesh?label=Stars&style=for-the-badge&color=79C0FF&labelColor=0D1117)](https://github.com/Yuvi-Ramesh)
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuvaramesh&style=for-the-badge&color=DD2727&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Yuvi-Ramesh&style=for-the-badge&color=DD2727&label=Profile+Views" alt="Profile Views"/>
+</div>
 </div>
 
-</div>
 
 ### <div align="center">🔗 Get In Touch</div>
 <p align="center">
